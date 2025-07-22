@@ -1,0 +1,11 @@
+# IDE files
+.idea/
+
+# Python cache
+__pycache__/
+
+# Test coverage
+.coverage
+
+# Virtual environment
+.venv/
